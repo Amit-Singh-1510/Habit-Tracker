@@ -28,7 +28,7 @@ const habits = [
     id: "screen",
     name: "Screen Time",
     unit: "hrs",
-    goal: 3,
+    goal: 2,
   },
 ];
 
